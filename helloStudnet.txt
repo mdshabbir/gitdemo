@@ -1,0 +1,2 @@
+hello gyus this is my first interaction with git.
+I will learn the git and github as soon as possible.
